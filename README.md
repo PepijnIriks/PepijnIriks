@@ -25,20 +25,23 @@ Ik ben een 3e jaars Cybersecurity student aan **Fontys Hogeschool**. Tijdens mij
 
 ---
 
+---
+
 ### 📊 Onderzoeks-activiteit
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PepijnIriks&show_icons=true&theme=blood&count_private=true" alt="Pepijn's Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepijnIriks&layout=compact&theme=blood" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PepijnIriks&show_icons=true&theme=blood&count_private=true" alt="Pepijn's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepijnIriks&layout=compact&theme=blood" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 🔗 Laten we connecten
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/pepijn-iriks-505ab8207)
+<p align="left">
+<a href="https://nl.linkedin.com/in/pepijn-iriks-505ab8207" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
----
 <p align="center">
   <img src="https://profile-counter.glitch.me/PepijnIriks/count.svg" alt="Visitor Count" />
   <br>
