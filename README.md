@@ -11,30 +11,29 @@ Ik ben een 3e jaars Cybersecurity student aan **Fontys Hogeschool**. Tijdens mij
 ---
 
 ### 🧠 Stage Tech Stack & Tools
-![My Skills](https://skillicons.dev/icons?i=py,linux,docker,bash,aws,githubactions,md,network)
-
-> **Research Quote:** "Leveraging open-source intelligence to tilt the balance in favor of the defenders."
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,linux,docker,bash,aws,githubactions,md,network" />
+</p>
 
 ---
 
-### 📝 Stage Voortgang: Onderzoek naar AI Tools
+### 📝 Stage Voortgang
 **Onderzoek fase:**
 ![Progress](https://geps.dev/progress/85?dangerColor=800000&profileStyle=true) 
 *Momenteel: Benchmarking van lokale LLM's tegen CVE-databases.*
 
 ---
 
-### 📊 Onderzoeks-activiteit
-![Pepijn's Stats](https://github-readme-stats.vercel.app/api?username=PepijnIriks&show_icons=true&theme=blood)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepijnIriks&layout=compact&theme=blood)
+### 📊 GitHub Stats (Alternative Server)
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PepijnIriks&show_icons=true&theme=blood" alt="Stats" />
+<br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PepijnIriks&layout=compact&theme=blood" alt="Langs" />
+</p>
 
 ---
 
 ### 🔗 Laten we connecten
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/pepijn-iriks-505ab8207)
+**[➔ Klik hier voor mijn LinkedIn](https://nl.linkedin.com/in/pepijn-iriks-505ab8207)**
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/PepijnIriks/count.svg)
-*Sinds het begin van mijn S5 onderzoek*
