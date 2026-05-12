@@ -18,6 +18,12 @@ Ik ben een 3e jaars Cybersecurity student aan **Fontys Hogeschool**. Tijdens mij
 > **Research Quote:** "Leveraging open-source intelligence to tilt the balance in favor of the defenders."
 
 ---
+### 📝 Stage Voortgang: Onderzoek naar AI Tools
+**Onderzoek fase:**
+![Progress](https://geps.dev/progress/85?dangerColor=800000&profileStyle=true) 
+*Momenteel: Benchmarking van lokale LLM's tegen CVE-databases.*
+
+---
 
 ### 📊 Onderzoeks-activiteit
 <p align="center">
