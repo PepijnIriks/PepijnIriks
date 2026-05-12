@@ -35,3 +35,12 @@ Ik ben een 3e jaars Cybersecurity student aan **Fontys Hogeschool**. Tijdens mij
 
 ### 🔗 Laten we connecten
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/pepijn-iriks-505ab8207)
+
+---
+
+---
+<p align="center">
+  <img src="https://profile-counter.glitch.me/PepijnIriks/count.svg" alt="Visitor Count" />
+  <br>
+  <i>Sinds het begin van mijn S5 onderzoek</i>
+</p>
