@@ -12,8 +12,13 @@ Ik ben een 3e jaars Cybersecurity student aan **Fontys Hogeschool**. Tijdens mij
 
 ### 🧠 Stage Tech Stack & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,linux,docker,bash,aws,githubactions,md,network" />
+<img src="https://skillicons.dev/icons?i=py,linux,docker,bash,aws,githubactions,md,network&theme=dark" />
 </p>
+
+---
+
+### 🐍 My Contributions Snake
+![Snake animation](https://github-readme-stats.vercel.app/api/snake?username=PepijnIriks&color_snake=red&color_dots=#161b22,#00452e,#006d3c,#00a67d,#39d353)
 
 ---
 
@@ -24,11 +29,11 @@ Ik ben een 3e jaars Cybersecurity student aan **Fontys Hogeschool**. Tijdens mij
 
 ---
 
-### 📊 GitHub Stats (Alternative Server)
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PepijnIriks&show_icons=true&theme=blood" alt="Stats" />
-<br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PepijnIriks&layout=compact&theme=blood" alt="Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PepijnIriks&show_icons=true&theme=tokyonight" alt="Stats" />
+<br><br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PepijnIriks&layout=compact&theme=tokyonight" alt="Langs" />
 </p>
 
 ---
